@@ -1,7 +1,7 @@
 public class App {
     public static void main(String[] args) {
         
-      
+      //Koodi on valmis, mutta teen vielä muokkauksia
 
         String tekija = "Laura";
         double luku1 = 5; 
