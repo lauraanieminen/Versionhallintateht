@@ -3,6 +3,8 @@ public class App {
         
       //Koodi on valmis, mutta teen vielä muokkauksia
 
+       
+
         String tekija = "Laura";
         double luku1 = 5; 
         double luku2 = 2; 
@@ -17,7 +19,8 @@ public class App {
         System.out.print("Ohjelman tekijä: ");
         
         System.out.println(tekija); 
-
+       
+        //Tehdään laskutoimituksia
        
         System.out.println("Luku1-muuttujan arvo on " + luku1); 
 
